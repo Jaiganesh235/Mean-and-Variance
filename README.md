@@ -53,8 +53,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-DEVELOPED BY : DIVYA K
-REG NO :212222230035
+DEVELOPED BY : S.JAIGANESH
+REG NO :212222240037
 
 
 import numpy as np
